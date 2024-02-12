@@ -1,7 +1,6 @@
 #!/bin/bash -e
 
 # This script enables IAM authentication for Cloud SQL and creates the IAM users.
-#!/bin/bash -e
 
 PROJECT=${1:-"YOUR-GCP-PROJECT-NAME"}
 INSTANCE_ID="${PROJECT}-mysql"
