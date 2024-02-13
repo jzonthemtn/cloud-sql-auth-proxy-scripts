@@ -7,7 +7,7 @@ This is a set of convenience scripts for accessing Google Cloud Cloud SQL databa
 To get started clone this repository and `cd` into the directory.
 
 ```
-git clone git@github.com:jzonthemtn/cloud-sql-auth-proxy-scripts.git
+git clone https://github.com/jzonthemtn/cloud-sql-auth-proxy-scripts.git
 cd cloud-sql-auth-proxy-scripts
 ```
 
